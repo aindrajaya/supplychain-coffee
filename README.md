@@ -70,8 +70,8 @@ The coffee supply chain is the sequence of activities and process  to bring raw 
 **Setting up Ethereum Smart Contract:**
 
 ```
-git clone https://github.com/aindrajaya/coffee-supplychain-ethereum
-cd coffee-supplychain-ethereum/
+git clone https://github.com/aindrajaya/supplychain-coffee
+cd supplychain-coffee/
 ```
 
 **Update truffle.js **
@@ -135,13 +135,4 @@ Saving successful migration to network...
 Saving artifacts...
 
 ```
-- From above responce copy address of SupplyChainStorage, SupplyChainUser, CoffeeSupplyChain
-- This 3 address we need to paste in [coffee-supplychain-ui/js/app/app.js] file
-like below
-```
-    var globIcoAddress = {
-		'CoffeeMain': "0x668167b434907e2e212cb7cb7d496159c90b41a4",
-		'CoffeeUser': "0x03f72d93e07428dbfbdff8f54676c19dd4421e2b",
-		'Storage': "0xe544a8f280e4cb111589f935c483cafb1c6044d0"
-	};
-```
+END
