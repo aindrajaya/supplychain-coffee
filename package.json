@@ -1,5 +1,5 @@
 {
-  "name": "coffee-supplychain-contract",
+  "name": "supplychain-coffee",
   "version": "1.0.0",
   "description": "This project showcases the journey of coffee beans on blockchain.",
   "main": "truffle.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/aindrajaya/coffee-supplychain-contract.git"
+    "url": "git+ssh://git@gitlab.com/aindrajaya/supplychain-coffee.git"
   },
   "author": "AIndrajaya",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/aindrajaya/coffee-supplychain-contract/issues"
+    "url": "https://gitlab.com/aindrajaya/supplychain-coffee/issues"
   },
-  "homepage": "https://gitlab.com/aindrajaya/coffee-supplychain-contract#README",
+  "homepage": "https://gitlab.com/aindrajaya/supplychain-coffee#README",
   "dependencies": {
     "chai": "^4.1.2",
     "eth-gas-reporter": "^0.1.7",
